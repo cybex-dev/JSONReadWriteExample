@@ -1,0 +1,42 @@
+{
+  "class": "WRPV301",
+  "totalStudents": 3,
+  "atCapacity": false,
+  "student": [
+    {
+      "name": "charles",
+      "surname": "dyason",
+      "age": 95,
+      "isMale": true,
+      "marks": [
+        99,
+        95,
+        100
+      ]
+    },
+    {
+      "name": "mark",
+      "surname": "zuckerberg",
+      "age": 120,
+      "isMale": true,
+      "marks": [
+        100,
+        99,
+        100
+      ]
+    },
+    {
+      "name": "bill",
+      "surname": "gates",
+      "age": 25,
+      "isMale": true,
+      "marks": [
+        45,
+        66,
+        20
+      ]
+    }
+  ],
+  "year": 2020,
+  "average": 91.4
+}
