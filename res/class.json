@@ -2,7 +2,7 @@
   "class": "WRPV301",
   "totalStudents": 3,
   "atCapacity": false,
-  "student": [
+  "students": [
     {
       "name": "charles",
       "surname": "dyason",
